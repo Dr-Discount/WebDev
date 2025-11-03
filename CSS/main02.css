@@ -1,0 +1,17 @@
+html {
+    background-image: url(https://images.ctfassets.net/nnkxuzam4k38/219VUMa1SOxASKqCE2OgT4/be1c810344587bd7f6f203337d23602a/ranger-4df6c1b6.png);
+    background-size: cover;
+    text-align: center;
+    font-family: Courier New;
+    color:blue;
+}
+
+header, footer {
+    padding-top: 100px;
+}
+
+img {
+    width: 30%;
+    margin-left: 35%;
+    margin-right:35%;
+}

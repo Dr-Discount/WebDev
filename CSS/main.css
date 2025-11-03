@@ -1,0 +1,18 @@
+html {
+    background-color: gray;
+    color:black;
+}
+
+image {
+    width: 400px;
+}
+
+header, footer {
+    padding-top: 20px;
+}
+
+table, th, td {
+  border: 1px solid lightblue;
+  border-radius: 10px;
+  border-width: 4px;
+}
